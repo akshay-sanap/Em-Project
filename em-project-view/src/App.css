@@ -1,0 +1,10 @@
+.App {
+  text-align: left;
+}
+
+body {
+  background-image: url(D:\EM-Project\em-project-view\src\images\em-background.webp);
+  background-size: cover;
+  color: #fff;
+  height: 100vh;
+}
